@@ -41,7 +41,7 @@ const LandingPage = () => {
             className="h-16 sm:h-18 lg:h-20 w-auto object-contain"
           />
         </div>
-        <div className="flex items-center gap-4 hidden sm:flex">
+        <div className="flex items-center gap-4">
           <Link to="/staff/login" className="text-text-secondary text-[11px] hover:text-white font-semibold uppercase tracking-wider transition-colors">
             Staff Login
           </Link>
